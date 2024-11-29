@@ -1,5 +1,6 @@
 package br.com.lucas.api_rest_spring_react.service;
 
+import br.com.lucas.api_rest_spring_react.exception.MathOperationsException;
 import br.com.lucas.api_rest_spring_react.service.IMathService;
 import org.springframework.stereotype.Service;
 
@@ -9,7 +10,7 @@ public class MathService implements IMathService {
     @Override
     public Double calculateNumbers(String numberOne, String numberTwo) {
         if (!isNumeric(numberOne) || !isNumeric(numberTwo))
-            return 0D;
+            throw new MathOperationsException("Please set a numeric value");
 
         return convertoDouble(numberOne) + convertoDouble(numberTwo);
     }
