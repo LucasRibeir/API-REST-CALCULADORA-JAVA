@@ -7,9 +7,9 @@ public class MathService implements IMathService {
 
     @Override
     public Double calculateNumbers(String numberOne, String numberTwo) {
-        if (!isNumeric(numberOne) || !isNumeric(numberTwo)) {
+        if (!isNumeric(numberOne) || !isNumeric(numberTwo))
             return 0D;
-        }
+
         return convertoDouble(numberOne) + convertoDouble(numberTwo);
     }
 
