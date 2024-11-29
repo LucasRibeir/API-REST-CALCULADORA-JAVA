@@ -1,4 +1,4 @@
-package br.com.lucas.api_rest_spring_react;
+package br.com.lucas.api_rest_spring_react.domain;
 
 import lombok.Getter;
 import lombok.Setter;

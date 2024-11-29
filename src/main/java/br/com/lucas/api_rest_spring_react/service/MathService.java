@@ -1,4 +1,4 @@
-package br.com.lucas.api_rest_spring_react;
+package br.com.lucas.api_rest_spring_react.service;
 
 import br.com.lucas.api_rest_spring_react.service.IMathService;
 import org.springframework.stereotype.Service;

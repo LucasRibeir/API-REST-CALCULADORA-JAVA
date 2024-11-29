@@ -1,5 +1,6 @@
-package br.com.lucas.api_rest_spring_react;
+package br.com.lucas.api_rest_spring_react.controller;
 
+import br.com.lucas.api_rest_spring_react.service.IMathService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
