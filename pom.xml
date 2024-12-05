@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.lucas</groupId>
-	<artifactId>api-rest-spring-react</artifactId>
+	<artifactId>api-rest-calculator-java</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>api-rest-calculator-java</name>
 	<description>Demo project for Spring Boot</description>
