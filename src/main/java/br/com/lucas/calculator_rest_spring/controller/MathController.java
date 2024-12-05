@@ -1,6 +1,6 @@
-package br.com.lucas.api_rest_spring_react.controller;
+package br.com.lucas.calculator_rest_spring.controller;
 
-import br.com.lucas.api_rest_spring_react.service.*;
+import br.com.lucas.calculator_rest_spring.service.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

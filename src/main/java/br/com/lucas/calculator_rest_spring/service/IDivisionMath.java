@@ -1,4 +1,4 @@
-package br.com.lucas.api_rest_spring_react.service;
+package br.com.lucas.calculator_rest_spring.service;
 
 public interface IDivisionMath {
     Double calculateDivision(String numberOne, String numberTwo);

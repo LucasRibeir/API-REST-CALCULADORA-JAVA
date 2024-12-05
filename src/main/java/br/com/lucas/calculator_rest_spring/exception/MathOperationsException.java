@@ -1,4 +1,4 @@
-package br.com.lucas.api_rest_spring_react.exception;
+package br.com.lucas.calculator_rest_spring.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

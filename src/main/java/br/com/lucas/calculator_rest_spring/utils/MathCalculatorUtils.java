@@ -1,4 +1,4 @@
-package br.com.lucas.api_rest_spring_react.utils;
+package br.com.lucas.calculator_rest_spring.utils;
 
 import org.springframework.stereotype.Component;
 

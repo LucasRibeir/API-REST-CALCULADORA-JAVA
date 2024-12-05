@@ -1,7 +1,7 @@
-package br.com.lucas.api_rest_spring_react.service;
+package br.com.lucas.calculator_rest_spring.service;
 
-import br.com.lucas.api_rest_spring_react.exception.MathOperationsException;
-import br.com.lucas.api_rest_spring_react.utils.MathCalculatorUtils;
+import br.com.lucas.calculator_rest_spring.exception.MathOperationsException;
+import br.com.lucas.calculator_rest_spring.utils.MathCalculatorUtils;
 import org.springframework.stereotype.Service;
 
 @Service

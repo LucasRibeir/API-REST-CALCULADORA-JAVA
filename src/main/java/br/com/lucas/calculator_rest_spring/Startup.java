@@ -1,4 +1,4 @@
-package br.com.lucas.api_rest_spring_react;
+package br.com.lucas.calculator_rest_spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

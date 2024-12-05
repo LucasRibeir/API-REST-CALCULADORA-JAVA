@@ -1,4 +1,4 @@
-package br.com.lucas.api_rest_spring_react.service;
+package br.com.lucas.calculator_rest_spring.service;
 
 public interface ISquareRoot {
     Double squareRootCalculate(String number);
