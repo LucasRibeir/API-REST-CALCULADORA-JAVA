@@ -11,7 +11,7 @@
 	<groupId>br.com.lucas</groupId>
 	<artifactId>api-rest-spring-react</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>api-rest-spring-react</name>
+	<name>api-rest-calculator-java</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
